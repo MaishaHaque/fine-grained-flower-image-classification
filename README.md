@@ -32,7 +32,7 @@ dataset_split/
   <img src="workflow.png" alt="Flower Classification Workflow" width="1000">
 </p>
 
-The workflow begins with dataset preparation and preprocessing, followed by data augmentation and transfer learning using pretrained ImageNet weights. ResNet50 and InceptionV3 are fine-tuned and evaluated using standard classification metrics to compare their performance.
+The workflow begins with dataset preparation and preprocessing, followed by data augmentation and transfer learning using pretrained ImageNet weights. ResNet50 and InceptionV3 are fine-tuned and evaluated using standard classification metrics to compare their performance. The workflow image is generated using AI.
 
 ## Evaluation Metrics
 
@@ -49,7 +49,3 @@ The workflow begins with dataset preparation and preprocessing, followed by data
 - InceptionV3 was more sensitive to augmentation.
 - Transfer learning significantly reduced training time while maintaining strong accuracy.
 
-
-Maisha Haque  
-Master of Information Technology (Artificial Intelligence)  
-Macquarie University
